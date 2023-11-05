@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Película 1",
+    "foto": "https://i.ibb.co/ggvc3MS/Helena-Ravenclaw.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Película 2",
+    "foto": "https://i.ibb.co/t8791wS/Severus-Heroe-o-Villano.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Película 3",
+    "foto": "https://i.ibb.co/ggvc3MS/Helena-Ravenclaw.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Película 4",
+    "foto": "https://i.ibb.co/23PZ8Tk/Baron-Sanguinario.jpg"
+  }
+]
+

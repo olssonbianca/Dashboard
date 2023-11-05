@@ -1,0 +1,22 @@
+[
+    {
+        "user": "Bianca",
+        "rol": "administrador"
+    },
+    {
+        "user": "Diego",
+        "rol": "Buen novio"
+},
+{
+    "user": "Persona a",
+    "rol": "administrador"
+},
+{
+    "user": "Persona b",
+    "rol": "administrador"
+},
+{
+    "user": "Bianca",
+    "rol": "administrador"
+}
+]

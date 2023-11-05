@@ -5,12 +5,14 @@ import Movies from './pages/Movies';
 import Users from './pages/Users';
 import Group from './pages/Group';
 import Config from './pages/Config';
+import { UserProvider } from './Context/Context';
 
 
 function App() {
   
   return (
     <>
+    <UserProvider>
       <Navbar/>
       <Routes>
         <Route path='/' element={<Dashboard/>}/>
@@ -19,6 +21,7 @@ function App() {
         <Route path='/Participantes' element={<Group/>}/>
         <Route path='/Configuracion' element={<Config/>}/>
       </Routes>
+      </UserProvider>
     </>
   )
 }

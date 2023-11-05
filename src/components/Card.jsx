@@ -1,13 +1,13 @@
 import React from 'react'
 
-//Esta es la card de movie
+function Card({foto}) {
+  
 
-function Card() {
   return (
     <div>
-        <img src='' alt=''/>
+        <img src={foto} alt='Movie'/>
     </div>
   )
-}
+} 
 
 export default Card
