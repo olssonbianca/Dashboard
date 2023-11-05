@@ -1,5 +1,7 @@
 import React from 'react'
 
+//Esta es la card de movie
+
 function Card() {
   return (
     <div>

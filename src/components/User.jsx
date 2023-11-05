@@ -1,5 +1,7 @@
 import React from 'react'
 
+//Esta es la card que renderiza usuarios
+
 function User() {
   return (
     <div>
